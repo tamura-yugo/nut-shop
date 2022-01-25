@@ -1,0 +1,10 @@
+@charset "UTF-8";
+table{border-collapse: collapse;}
+td, th {border-bottom: 1px solid #aaa;
+	padding: 5px;
+}
+a {
+	padding-right: 10px;
+}
+.customer em{color: #fc1d3e;}
+
